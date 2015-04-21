@@ -243,18 +243,14 @@
 					dataField="key"/>
 					
 				<mx:DataGridColumn fontSize="13" color="#222244" width="300"
-					headerText="Source: { LanguagesReference.getLGNameByCode(pm.sourcePropFile.language.substr(0, 2)) }" 
-					wordWrap="true"				
+					headerText="Source: { LanguagesReference.getLGNameByCode(pm.sourcePropFile.language.substr(0, 2) )}" 
+					dataField="value"
 					editable="false"
-					dataField="value">
-					    <mx:itemRenderer>
-				    	    <mx:Component>
-				        	    <mx:DataGridItemRenderer selectable="true" />
-				        	</mx:Component>
-					    </mx:itemRenderer>
-				</mx:DataGridColumn>		
+					wordWrap="true"
+					itemEditor="mx.controls.RichTextEditor"
+					itemRenderer="com.dehats.lupo.view.TranslationItemRenderer"/>
 					
-				<mx:DataGridColumn fontSize="13"  color="#000000"
+				<mx:DataGridColumn fontSize="13" color="#000000"
 					headerText="Target: { LanguagesReference.getLGNameByCode(pm.translationsPropFile.language.substr(0, 2) )}" 
 					dataField="translation"
 					editable="{pm.translationIsPermitted}"
