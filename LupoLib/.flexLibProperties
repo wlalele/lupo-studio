@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<flexLibProperties includeAllClasses="false" version="1">
+<flexLibProperties includeAllClasses="false" useMultiPlatformConfig="false" version="1">
   <includeClasses>
     <classEntry path="com.dehats.lupo.model.Bundle"/>
     <classEntry path="com.dehats.lupo.model.CSVExportImport"/>
@@ -38,17 +38,17 @@
     <resourceEntry destPath="com/dehats/lupo/assets/flags/qa.png" sourcePath="com/dehats/lupo/assets/flags/qa.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/no.png" sourcePath="com/dehats/lupo/assets/flags/no.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/cl.png" sourcePath="com/dehats/lupo/assets/flags/cl.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/mz.png" sourcePath="com/dehats/lupo/assets/flags/mz.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/at.png" sourcePath="com/dehats/lupo/assets/flags/at.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/icons/page_white_magnify.png" sourcePath="com/dehats/lupo/assets/icons/page_white_magnify.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/at.png" sourcePath="com/dehats/lupo/assets/flags/at.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/mz.png" sourcePath="com/dehats/lupo/assets/flags/mz.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/mg.png" sourcePath="com/dehats/lupo/assets/flags/mg.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/sv.png" sourcePath="com/dehats/lupo/assets/flags/sv.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/icons/bullet_arrow_bottom.png" sourcePath="com/dehats/lupo/assets/icons/bullet_arrow_bottom.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/sv.png" sourcePath="com/dehats/lupo/assets/flags/sv.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/mn.png" sourcePath="com/dehats/lupo/assets/flags/mn.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/td.png" sourcePath="com/dehats/lupo/assets/flags/td.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/et.png" sourcePath="com/dehats/lupo/assets/flags/et.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/tn.png" sourcePath="com/dehats/lupo/assets/flags/tn.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/td.png" sourcePath="com/dehats/lupo/assets/flags/td.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/in.png" sourcePath="com/dehats/lupo/assets/flags/in.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/tn.png" sourcePath="com/dehats/lupo/assets/flags/tn.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/europeanunion.png" sourcePath="com/dehats/lupo/assets/flags/europeanunion.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/nr.png" sourcePath="com/dehats/lupo/assets/flags/nr.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/be.png" sourcePath="com/dehats/lupo/assets/flags/be.png"/>
@@ -73,17 +73,17 @@
     <resourceEntry destPath="com/dehats/lupo/assets/flags/nu.png" sourcePath="com/dehats/lupo/assets/flags/nu.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/sl.png" sourcePath="com/dehats/lupo/assets/flags/sl.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/as.png" sourcePath="com/dehats/lupo/assets/flags/as.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/icons/cancel.png" sourcePath="com/dehats/lupo/assets/icons/cancel.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/sk.png" sourcePath="com/dehats/lupo/assets/flags/sk.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/km.png" sourcePath="com/dehats/lupo/assets/flags/km.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/icons/cancel.png" sourcePath="com/dehats/lupo/assets/icons/cancel.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/ye.png" sourcePath="com/dehats/lupo/assets/flags/ye.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/mk.png" sourcePath="com/dehats/lupo/assets/flags/mk.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/ae.png" sourcePath="com/dehats/lupo/assets/flags/ae.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/km.png" sourcePath="com/dehats/lupo/assets/flags/km.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/ar.png" sourcePath="com/dehats/lupo/assets/flags/ar.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/ae.png" sourcePath="com/dehats/lupo/assets/flags/ae.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/mk.png" sourcePath="com/dehats/lupo/assets/flags/mk.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/icons/page_white_gear.png" sourcePath="com/dehats/lupo/assets/icons/page_white_gear.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/pr.png" sourcePath="com/dehats/lupo/assets/flags/pr.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/mq.png" sourcePath="com/dehats/lupo/assets/flags/mq.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/pk.png" sourcePath="com/dehats/lupo/assets/flags/pk.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/mq.png" sourcePath="com/dehats/lupo/assets/flags/mq.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/bt.png" sourcePath="com/dehats/lupo/assets/flags/bt.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/sn.png" sourcePath="com/dehats/lupo/assets/flags/sn.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/icons/disk_multiple.png" sourcePath="com/dehats/lupo/assets/icons/disk_multiple.png"/>
@@ -100,25 +100,25 @@
     <resourceEntry destPath="com/dehats/lupo/assets/flags/ml.png" sourcePath="com/dehats/lupo/assets/flags/ml.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/gi.png" sourcePath="com/dehats/lupo/assets/flags/gi.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/pg.png" sourcePath="com/dehats/lupo/assets/flags/pg.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/mx.png" sourcePath="com/dehats/lupo/assets/flags/mx.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/icons/arrow_undo.png" sourcePath="com/dehats/lupo/assets/icons/arrow_undo.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/mx.png" sourcePath="com/dehats/lupo/assets/flags/mx.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/fr.png" sourcePath="com/dehats/lupo/assets/flags/fr.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/mu.png" sourcePath="com/dehats/lupo/assets/flags/mu.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/icons/add.png" sourcePath="com/dehats/lupo/assets/icons/add.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/icons/door_in.png" sourcePath="com/dehats/lupo/assets/icons/door_in.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/sd.png" sourcePath="com/dehats/lupo/assets/flags/sd.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/icons/add.png" sourcePath="com/dehats/lupo/assets/icons/add.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/er.png" sourcePath="com/dehats/lupo/assets/flags/er.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/ir.png" sourcePath="com/dehats/lupo/assets/flags/ir.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/sd.png" sourcePath="com/dehats/lupo/assets/flags/sd.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/st.png" sourcePath="com/dehats/lupo/assets/flags/st.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/ir.png" sourcePath="com/dehats/lupo/assets/flags/ir.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/cn.png" sourcePath="com/dehats/lupo/assets/flags/cn.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/gl.png" sourcePath="com/dehats/lupo/assets/flags/gl.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/ve.png" sourcePath="com/dehats/lupo/assets/flags/ve.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/icons/application_xp_terminal.png" sourcePath="com/dehats/lupo/assets/icons/application_xp_terminal.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/ve.png" sourcePath="com/dehats/lupo/assets/flags/ve.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/uz.png" sourcePath="com/dehats/lupo/assets/flags/uz.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/ky.png" sourcePath="com/dehats/lupo/assets/flags/ky.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/th.png" sourcePath="com/dehats/lupo/assets/flags/th.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/dj.png" sourcePath="com/dehats/lupo/assets/flags/dj.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/um.png" sourcePath="com/dehats/lupo/assets/flags/um.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/dj.png" sourcePath="com/dehats/lupo/assets/flags/dj.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/ly.png" sourcePath="com/dehats/lupo/assets/flags/ly.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/iq.png" sourcePath="com/dehats/lupo/assets/flags/iq.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/gb.png" sourcePath="com/dehats/lupo/assets/flags/gb.png"/>
@@ -219,55 +219,55 @@
     <resourceEntry destPath="com/dehats/lupo/assets/flags/is.png" sourcePath="com/dehats/lupo/assets/flags/is.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/hu.png" sourcePath="com/dehats/lupo/assets/flags/hu.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/bn.png" sourcePath="com/dehats/lupo/assets/flags/bn.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/bf.png" sourcePath="com/dehats/lupo/assets/flags/bf.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/sr.png" sourcePath="com/dehats/lupo/assets/flags/sr.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/bf.png" sourcePath="com/dehats/lupo/assets/flags/bf.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/icons/folder_page.png" sourcePath="com/dehats/lupo/assets/icons/folder_page.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/ai.png" sourcePath="com/dehats/lupo/assets/flags/ai.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/bd.png" sourcePath="com/dehats/lupo/assets/flags/bd.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/mv.png" sourcePath="com/dehats/lupo/assets/flags/mv.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/eh.png" sourcePath="com/dehats/lupo/assets/flags/eh.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/bd.png" sourcePath="com/dehats/lupo/assets/flags/bd.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/sy.png" sourcePath="com/dehats/lupo/assets/flags/sy.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/eh.png" sourcePath="com/dehats/lupo/assets/flags/eh.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/wf.png" sourcePath="com/dehats/lupo/assets/flags/wf.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/cs.png" sourcePath="com/dehats/lupo/assets/flags/cs.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/ch.png" sourcePath="com/dehats/lupo/assets/flags/ch.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/lk.png" sourcePath="com/dehats/lupo/assets/flags/lk.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/ch.png" sourcePath="com/dehats/lupo/assets/flags/ch.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/pm.png" sourcePath="com/dehats/lupo/assets/flags/pm.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/ki.png" sourcePath="com/dehats/lupo/assets/flags/ki.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/ua.png" sourcePath="com/dehats/lupo/assets/flags/ua.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/sm.png" sourcePath="com/dehats/lupo/assets/flags/sm.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/az.png" sourcePath="com/dehats/lupo/assets/flags/az.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/sm.png" sourcePath="com/dehats/lupo/assets/flags/sm.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/ua.png" sourcePath="com/dehats/lupo/assets/flags/ua.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/ki.png" sourcePath="com/dehats/lupo/assets/flags/ki.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/ax.png" sourcePath="com/dehats/lupo/assets/flags/ax.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/tz.png" sourcePath="com/dehats/lupo/assets/flags/tz.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/gf.png" sourcePath="com/dehats/lupo/assets/flags/gf.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/lu.png" sourcePath="com/dehats/lupo/assets/flags/lu.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/tj.png" sourcePath="com/dehats/lupo/assets/flags/tj.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/zm.png" sourcePath="com/dehats/lupo/assets/flags/zm.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/icons/disk.png" sourcePath="com/dehats/lupo/assets/icons/disk.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/zm.png" sourcePath="com/dehats/lupo/assets/flags/zm.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/bw.png" sourcePath="com/dehats/lupo/assets/flags/bw.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/gd.png" sourcePath="com/dehats/lupo/assets/flags/gd.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/tg.png" sourcePath="com/dehats/lupo/assets/flags/tg.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/bo.png" sourcePath="com/dehats/lupo/assets/flags/bo.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/ad.png" sourcePath="com/dehats/lupo/assets/flags/ad.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/england.png" sourcePath="com/dehats/lupo/assets/flags/england.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/ws.png" sourcePath="com/dehats/lupo/assets/flags/ws.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/mm.png" sourcePath="com/dehats/lupo/assets/flags/mm.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/ws.png" sourcePath="com/dehats/lupo/assets/flags/ws.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/fam.png" sourcePath="com/dehats/lupo/assets/flags/fam.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/kn.png" sourcePath="com/dehats/lupo/assets/flags/kn.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/sh.png" sourcePath="com/dehats/lupo/assets/flags/sh.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/tf.png" sourcePath="com/dehats/lupo/assets/flags/tf.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/hm.png" sourcePath="com/dehats/lupo/assets/flags/hm.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/tf.png" sourcePath="com/dehats/lupo/assets/flags/tf.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/sj.png" sourcePath="com/dehats/lupo/assets/flags/sj.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/za.png" sourcePath="com/dehats/lupo/assets/flags/za.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/to.png" sourcePath="com/dehats/lupo/assets/flags/to.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/kg.png" sourcePath="com/dehats/lupo/assets/flags/kg.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/hr.png" sourcePath="com/dehats/lupo/assets/flags/hr.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/gt.png" sourcePath="com/dehats/lupo/assets/flags/gt.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/gy.png" sourcePath="com/dehats/lupo/assets/flags/gy.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/hr.png" sourcePath="com/dehats/lupo/assets/flags/hr.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/jm.png" sourcePath="com/dehats/lupo/assets/flags/jm.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/mr.png" sourcePath="com/dehats/lupo/assets/flags/mr.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/gy.png" sourcePath="com/dehats/lupo/assets/flags/gy.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/icons/world_add.png" sourcePath="com/dehats/lupo/assets/icons/world_add.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/cr.png" sourcePath="com/dehats/lupo/assets/flags/cr.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/mr.png" sourcePath="com/dehats/lupo/assets/flags/mr.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/ma.png" sourcePath="com/dehats/lupo/assets/flags/ma.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/cr.png" sourcePath="com/dehats/lupo/assets/flags/cr.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/cx.png" sourcePath="com/dehats/lupo/assets/flags/cx.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/icons/magnifier.png" sourcePath="com/dehats/lupo/assets/icons/magnifier.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/gs.png" sourcePath="com/dehats/lupo/assets/flags/gs.png"/>
@@ -279,32 +279,32 @@
     <resourceEntry destPath="com/dehats/lupo/assets/icons/bullet_arrow_up.png" sourcePath="com/dehats/lupo/assets/icons/bullet_arrow_up.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/ba.png" sourcePath="com/dehats/lupo/assets/flags/ba.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/cv.png" sourcePath="com/dehats/lupo/assets/flags/cv.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/tr.png" sourcePath="com/dehats/lupo/assets/flags/tr.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/tt.png" sourcePath="com/dehats/lupo/assets/flags/tt.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/tr.png" sourcePath="com/dehats/lupo/assets/flags/tr.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/ls.png" sourcePath="com/dehats/lupo/assets/flags/ls.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/es.png" sourcePath="com/dehats/lupo/assets/flags/es.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/kw.png" sourcePath="com/dehats/lupo/assets/flags/kw.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/pn.png" sourcePath="com/dehats/lupo/assets/flags/pn.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/ga.png" sourcePath="com/dehats/lupo/assets/flags/ga.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/kw.png" sourcePath="com/dehats/lupo/assets/flags/kw.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/icons/arrow_right.png" sourcePath="com/dehats/lupo/assets/icons/arrow_right.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/ga.png" sourcePath="com/dehats/lupo/assets/flags/ga.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/co.png" sourcePath="com/dehats/lupo/assets/flags/co.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/gm.png" sourcePath="com/dehats/lupo/assets/flags/gm.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/fo.png" sourcePath="com/dehats/lupo/assets/flags/fo.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/ru.png" sourcePath="com/dehats/lupo/assets/flags/ru.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/icons/help.png" sourcePath="com/dehats/lupo/assets/icons/help.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/ru.png" sourcePath="com/dehats/lupo/assets/flags/ru.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/fo.png" sourcePath="com/dehats/lupo/assets/flags/fo.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/gm.png" sourcePath="com/dehats/lupo/assets/flags/gm.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/br.png" sourcePath="com/dehats/lupo/assets/flags/br.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/np.png" sourcePath="com/dehats/lupo/assets/flags/np.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/mc.png" sourcePath="com/dehats/lupo/assets/flags/mc.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/bh.png" sourcePath="com/dehats/lupo/assets/flags/bh.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/np.png" sourcePath="com/dehats/lupo/assets/flags/np.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/mh.png" sourcePath="com/dehats/lupo/assets/flags/mh.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/us.png" sourcePath="com/dehats/lupo/assets/flags/us.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/bh.png" sourcePath="com/dehats/lupo/assets/flags/bh.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/fj.png" sourcePath="com/dehats/lupo/assets/flags/fj.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/us.png" sourcePath="com/dehats/lupo/assets/flags/us.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/pw.png" sourcePath="com/dehats/lupo/assets/flags/pw.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/ke.png" sourcePath="com/dehats/lupo/assets/flags/ke.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/nc.png" sourcePath="com/dehats/lupo/assets/flags/nc.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/ke.png" sourcePath="com/dehats/lupo/assets/flags/ke.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/my.png" sourcePath="com/dehats/lupo/assets/flags/my.png"/>
-    <resourceEntry destPath="com/dehats/lupo/assets/flags/fm.png" sourcePath="com/dehats/lupo/assets/flags/fm.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/an.png" sourcePath="com/dehats/lupo/assets/flags/an.png"/>
+    <resourceEntry destPath="com/dehats/lupo/assets/flags/fm.png" sourcePath="com/dehats/lupo/assets/flags/fm.png"/>
     <resourceEntry destPath="com/dehats/lupo/assets/flags/nl.png" sourcePath="com/dehats/lupo/assets/flags/nl.png"/>
   </includeResources>
   <namespaceManifests/>

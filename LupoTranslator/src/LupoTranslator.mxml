@@ -114,7 +114,7 @@
 		
 		<mx:Canvas label="View 2" width="100%" height="100%">		
 
-			<mx:Canvas left="10" top="10" right="10" height="30" paddingTop="4" styleName="Pan">
+			<mx:Canvas left="10" top="10" right="10" height="30" styleName="Pan">
 			
 				<mx:Label text="{'Project: '+pm.currentProject.name}" x="10" y="4" styleName="ProjectTitle"/>
 				<mx:HBox  y="4" horizontalCenter="0" verticalAlign="bottom">
