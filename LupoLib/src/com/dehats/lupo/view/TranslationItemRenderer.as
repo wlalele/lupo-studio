@@ -8,22 +8,15 @@ package com.dehats.lupo.view
 		{
 			super();
 		}
-	
+		
+		override public function get text():String
+		{
+			return super.htmlText;	
+		}
+				
 		override public function set text(value:String):void
 		{
-			if(data.translation==null)
-			{
-				setStyle("fontStyle", "italic");
-				setStyle("color", "0xAAAAAA");
-				super.text="Not translated";				
-			}
-			else
-			{
-				//trace(">"+data.translation+"<")
-				setStyle("fontStyle", "normal");
-				setStyle("color", "0x000000");								
-				super.text = value;
-			} 
+			super.htmlText = (value !== null) ? value : "Not translated";
 		}
 	}
 }
