@@ -1,5 +1,5 @@
 package com.dehats.lupo.view
-{	
+{
 	import mx.controls.dataGridClasses.DataGridItemRenderer;
 
 	public class TranslationItemRenderer extends DataGridItemRenderer

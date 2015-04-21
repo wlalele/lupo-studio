@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mx:Canvas xmlns:mx="http://www.adobe.com/2006/mxml" width="632" height="486"
-	xmlns:view="com.dehats.lupo.view.*">
+	xmlns:view="com.dehats.lupo.view.*" xmlns:s="library://ns.adobe.com/flex/spark">
 
 	<mx:Metadata>
 		[Event(name="preview", type="flash.events.Event")]
@@ -255,9 +255,16 @@
 					dataField="translation"
 					editable="{pm.translationIsPermitted}"
 					wordWrap="true"
-					editorUsesEnterKey="true" 
-					itemEditor="mx.controls.RichTextEditor"
-					itemRenderer="com.dehats.lupo.view.TranslationItemRenderer"/>
+					editorUsesEnterKey="true"
+					itemRenderer="com.dehats.lupo.view.TranslationItemRenderer">
+					<mx:itemEditor>
+						<mx:Component>
+							<view:TranslationTextEditor 
+								htmlText="{this.data.translation}">
+							</view:TranslationTextEditor>
+						</mx:Component>
+					</mx:itemEditor>
+				</mx:DataGridColumn>
 	
 				<mx:DataGridColumn width="50"
 					resizable="false"
