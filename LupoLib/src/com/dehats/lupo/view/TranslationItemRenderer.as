@@ -1,7 +1,5 @@
 package com.dehats.lupo.view
-{
-	import com.dehats.lupo.model.KeyValuePair;
-	
+{	
 	import mx.controls.dataGridClasses.DataGridItemRenderer;
 
 	public class TranslationItemRenderer extends DataGridItemRenderer
@@ -27,6 +25,5 @@ package com.dehats.lupo.view
 				super.text = value;
 			} 
 		}
-		
 	}
 }

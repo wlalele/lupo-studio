@@ -8,17 +8,16 @@
 
 	<mx:Script>
 		<![CDATA[
-			import com.dehats.lupo.presentation.LanguagesReference;
-			import flash.utils.setTimeout;
-			import com.dehats.lupo.presentation.AssetManager;
-			import com.dehats.lupo.model.Bundle;
-			import mx.controls.dataGridClasses.DataGridColumn;
-			import mx.controls.Alert;
 			import com.dehats.lupo.model.KeyValuePair;
-			import mx.events.DataGridEvent;
-			import mx.events.CloseEvent;
 			import com.dehats.lupo.model.PropFile;
+			import com.dehats.lupo.presentation.AssetManager;
+			import com.dehats.lupo.presentation.LanguagesReference;
 			import com.dehats.lupo.presentation.TranslationPanelPM;
+			
+			import mx.controls.Alert;
+			import mx.controls.dataGridClasses.DataGridColumn;
+			import mx.events.CloseEvent;
+			import mx.events.DataGridEvent;
 			
 			[Bindable]
 			public var pm:TranslationPanelPM;
@@ -31,8 +30,11 @@
 			public var icon_copy:Class = AssetManager.icon_copy;
 			
 			public var useLongLgDescription:Boolean=true;
+			
 			[Bindable]
-			public var showComments:Boolean=true;
+			public var showComments:Boolean = false;
+			[Bindable]
+			public var showKeys:Boolean = true;
 			
 			private function onItemEdition(pEvt:DataGridEvent):void
 			{
@@ -183,9 +185,10 @@
 			backgroundColor="#EEEEEE"
 			borderStyle="solid">
 			
-			<mx:CheckBox id="showKeyCB"	x="10" y="28" 
-				label="Show keys" 
-				selected="false"/>
+			<mx:CheckBox id="showKeysCB" x="10" y="28" 
+				selected="{ showKeys }"
+				change="showKeys=showKeysCB.selected"
+				label="Show keys"/>
 			<mx:CheckBox id="showCommentsCB" x="10" y="58" 
 				selected="{ showComments}"				
 				change="showComments=showCommentsCB.selected"
@@ -235,7 +238,7 @@
 					dataField="comments" />		
 					
 				<mx:DataGridColumn fontWeight="bold" width="160"
-					visible="{ showKeyCB.selected}" 
+					visible="{ showKeysCB.selected}" 
 					headerText="Key" editable="false" 
 					dataField="key"/>
 					
@@ -257,7 +260,7 @@
 					editable="{pm.translationIsPermitted}"
 					wordWrap="true"
 					editorUsesEnterKey="true" 
-					itemEditor="mx.controls.TextArea"
+					itemEditor="mx.controls.RichTextEditor"
 					itemRenderer="com.dehats.lupo.view.TranslationItemRenderer"/>
 	
 				<mx:DataGridColumn width="50"
